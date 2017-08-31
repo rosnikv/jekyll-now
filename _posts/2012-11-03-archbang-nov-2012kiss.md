@@ -1,10 +1,3 @@
----
-published: false
----
----
-layout: post
-title: Blogging Like a Hacker
----
 
 title: ArchBang nov 2012:KISS
 link: https://rosnikv92.wordpress.com/2012/11/03/archbang-nov-2012kiss/
