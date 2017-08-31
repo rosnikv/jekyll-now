@@ -4,6 +4,10 @@ category: research
 title: 'Your research page is up!'
 date: 2017-08-31 20:55
 ---
-Intended to share my research works. The works I am following, analysing concepts with code snippets.
+<This Category is under construction.>
 
-<This Page is under construction.>
+Intended to share my research work or review on any work I find interesting. I will try to analyse concepts with code snippets and examples.
+
+See you soon!
+
+
