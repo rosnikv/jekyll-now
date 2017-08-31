@@ -3,13 +3,16 @@ layout: page
 title: About
 permalink: /about/
 ---
+Hello! Thanks for pop in here.
 
-Some information about you!
+I'm Rosni. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I will be sharing more about Machine Learning concepts and data analysis in **Research** category. I think this is the right way to jot the ideas, as well to track yourself over a particular period. **Log** will be my outdated posts and small hacks or updates or naive informations. 
+
+Disclaimer : Some of the posts may go nuts.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[rosnikv@gmail.com](mailto:email@domain.com)
