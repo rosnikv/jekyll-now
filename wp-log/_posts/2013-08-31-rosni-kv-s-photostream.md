@@ -1,3 +1,8 @@
+---
+layout: post
+category: Log
+---
+
 title: Rosni Kv 's PhotoStream!!!
 link: https://rosnikv92.wordpress.com/2013/08/31/rosni-kv-s-photostream/
 author: rosnikv

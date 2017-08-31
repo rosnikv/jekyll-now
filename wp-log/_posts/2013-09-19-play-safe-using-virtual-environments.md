@@ -1,3 +1,8 @@
+---
+layout: post
+category: Log
+---
+
 title: Virtual environments : Play safe in small Python Projects !
 link: https://rosnikv92.wordpress.com/2013/09/19/play-safe-using-virtual-environments/
 author: rosnikv

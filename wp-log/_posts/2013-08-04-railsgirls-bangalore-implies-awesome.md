@@ -1,3 +1,8 @@
+---
+layout: post
+category: Log
+---
+
 title: RailsGirls Bangalore implies AWESOME !!!
 link: https://rosnikv92.wordpress.com/2013/08/04/railsgirls-bangalore-implies-awesome/
 author: rosnikv

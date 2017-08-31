@@ -1,3 +1,8 @@
+---
+layout: post
+category: Log
+---
+
 title:  Will Artificial Intelligence rule the world or not?
 link: https://rosnikv92.wordpress.com/2013/07/03/will-artificial-intelligence-rule-the-world-or-not/
 author: rosnikv

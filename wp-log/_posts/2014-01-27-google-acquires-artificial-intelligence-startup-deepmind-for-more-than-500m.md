@@ -1,3 +1,8 @@
+---
+layout: post
+category: Log
+---
+
 title: Google Acquires Artificial Intelligence Startup DeepMind For More Than $500M
 link: https://rosnikv92.wordpress.com/2014/01/27/google-acquires-artificial-intelligence-startup-deepmind-for-more-than-500m/
 author: rosnikv

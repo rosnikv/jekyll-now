@@ -1,3 +1,8 @@
+---
+layout: post
+category: Log
+---
+
 title: FOSS Cell activities : Government Engineering College Sreekrishnapuram
 link: https://rosnikv92.wordpress.com/2013/09/10/foss-cell-activities-government-engineering-college-sreekrishnapuram/
 author: rosnikv
