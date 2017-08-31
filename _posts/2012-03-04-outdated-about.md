@@ -10,7 +10,7 @@ post_name: about
 status: publish
 post_type: page
 
-# About
+# About [Outdated]
 
 [Check out my CV : ](https://rosnikv92.files.wordpress.com/2012/03/rosnikv1.pdf)[rosnikv](https://rosnikv92.files.wordpress.com/2012/03/rosnikv2.pdf)
 
