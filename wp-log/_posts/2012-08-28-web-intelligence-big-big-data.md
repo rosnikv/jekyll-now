@@ -1,3 +1,8 @@
+---
+layout: post
+category: Log
+---
+
 title: Big Data=Big opportunity!!!
 link: https://rosnikv92.wordpress.com/2012/08/28/web-intelligence-big-big-data/
 author: rosnikv

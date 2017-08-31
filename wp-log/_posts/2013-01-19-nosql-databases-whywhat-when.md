@@ -1,3 +1,8 @@
+---
+layout: post
+category: Log
+---
+
 title: Nosql databases why,what & when ???
 link: https://rosnikv92.wordpress.com/2013/01/19/nosql-databases-whywhat-when/
 author: rosnikv

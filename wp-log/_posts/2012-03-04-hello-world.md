@@ -1,3 +1,9 @@
+---
+layout: post
+category: Log
+---
+
+
 title: Hello world!
 link: https://rosnikv92.wordpress.com/2012/03/04/hello-world/
 author: rosnikv

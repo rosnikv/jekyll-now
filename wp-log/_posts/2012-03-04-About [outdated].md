@@ -1,3 +1,9 @@
+---
+layout: post
+category: Log
+---
+
+
 title: About
 link: https://rosnikv92.wordpress.com/about/
 author: rosnikv

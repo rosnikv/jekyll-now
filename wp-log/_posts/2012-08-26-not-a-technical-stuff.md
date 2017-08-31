@@ -1,3 +1,8 @@
+---
+layout: post
+category: Log
+---
+
 title: Not a technical Stuff!!!
 link: https://rosnikv92.wordpress.com/not-a-technical-stuff/
 author: rosnikv

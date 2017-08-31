@@ -1,3 +1,9 @@
+---
+layout: post
+category: Log
+---
+
+
 title: GENERAL LVM CONCEPTS
 link: https://rosnikv92.wordpress.com/2012/04/30/general-lvm-concepts/
 author: rosnikv

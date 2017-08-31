@@ -1,3 +1,8 @@
+---
+layout: post
+category: Log
+---
+
 title: An idea on IPv6 addressing..
 link: https://rosnikv92.wordpress.com/2012/08/25/ipv6-addressing-basics/
 author: rosnikv
