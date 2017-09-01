@@ -98,6 +98,13 @@ ul ul, ol ul {
   list-style-type: circle;
 }
 
+#menu ul{
+  list-style: none;
+}
+#menu li{
+  display: inline;
+}
+
 em, i {
   font-style: italic;
 }
