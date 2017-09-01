@@ -1,21 +1,9 @@
 ---
 layout: post
 category: Log
+title: RailsGirls Bangalore implies AWESOME !!!
 ---
 
-title: RailsGirls Bangalore implies AWESOME !!!
-link: https://rosnikv92.wordpress.com/2013/08/04/railsgirls-bangalore-implies-awesome/
-author: rosnikv
-description: 
-post_id: 164
-created: 2013/08/04 16:13:08
-created_gmt: 2013/08/04 16:13:08
-comment_status: open
-post_name: railsgirls-bangalore-implies-awesome
-status: publish
-post_type: post
-
-# RailsGirls Bangalore implies AWESOME !!!
 
 ![Image](http://rosnikv92.files.wordpress.com/2013/08/bqufk6rcmaezdze.png?w=590)
 
@@ -48,3 +36,18 @@ It was evident that many are able to develop application with in one day.I hope 
  
 
 Thank You #RailsGirls for such a Wonderful day !!!
+
+*
+
+
+link: https://rosnikv92.wordpress.com/2013/08/04/railsgirls-bangalore-implies-awesome/
+author: rosnikv
+description: 
+post_id: 164
+created: 2013/08/04 16:13:08
+created_gmt: 2013/08/04 16:13:08
+comment_status: open
+post_name: railsgirls-bangalore-implies-awesome
+status: publish
+post_type: post
+*
