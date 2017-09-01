@@ -12,8 +12,8 @@ $$
 \delta = \alpha + \beta
 $$
 
-1. Item1
-2. Item2
+* Item1
+* Item2
 
 See you soon!
 
