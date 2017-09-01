@@ -5,11 +5,13 @@ site generator.
 
 Just listing out the quick procedure:
 
-1. Export the wordpress contents.
-2. Convert the wordpress dumped xml to markdown.
-3. Set up Jekyll in your system.
-4. Or fork **barryclark/jekyll-now** for easy set-up: in that repo the procedure to get your username.github.io is given.
-5. Spent some time to arrange your old posts in new environment.
+* Export the wordpress contents.
+
+* Convert the wordpress dumped xml to markdown.
+
+* Set up Jekyll in your system. Or fork **barryclark/jekyll-now** for easy set-up: in that repo the procedure to get your username.github.io is given.
+
+* Spent some time to arrange your old posts in new environment.
 
 Hurray, Your blog is up!
 
