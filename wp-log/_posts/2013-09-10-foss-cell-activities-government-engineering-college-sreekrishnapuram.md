@@ -1,7 +1,7 @@
 ---
 layout: post
 category: Log
-title: FOSS Cell activities : Government Engineering College Sreekrishnapuram
+title: FOSS Cell activities Government Engineering College Sreekrishnapuram
 ---
 
 
