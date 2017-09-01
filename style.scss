@@ -92,8 +92,8 @@ ol {
   list-style-type: decimal;
 }
 
-li {
-	display: inline;
+ul#menu li {
+    display:inline;
 }
 
 ol ul, ul ol, ul ul, ol ol {
