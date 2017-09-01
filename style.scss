@@ -243,11 +243,8 @@ nav {
       color: $blue;
     }
   }
-a:hover,
-a.selected {
-  color: red;
-  background: #efefef;
-}
+
+a:selected { color: blue; font-weight: bold; }
 	
 }
 
