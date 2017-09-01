@@ -9,7 +9,7 @@ mathjax: true
 
 Intended to share my research work or review on any work I find interesting. I will try to analyse concepts with code snippets and examples.
 $$
-/delta = /alpha + /beta
+\delta = \alpha + \beta
 $$
 
 See you soon!
