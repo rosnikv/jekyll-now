@@ -10,6 +10,9 @@ mathjax: true
 Intended to share my research work or review on any work I find interesting. I will try to analyse concepts with code snippets and examples.
 $$
 \delta = \alpha + \beta
+1. Item1
+2. Item2
+3.
 $$
 
 See you soon!
