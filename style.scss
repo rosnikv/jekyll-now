@@ -88,12 +88,12 @@ ul {
 	
 }
 
-ul li {
-	display: inline;
-}
-
 ol {
   list-style-type: decimal;
+}
+
+li {
+	display: inline;
 }
 
 ol ul, ul ol, ul ul, ol ol {
