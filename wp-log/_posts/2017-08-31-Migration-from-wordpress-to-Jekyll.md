@@ -1,3 +1,7 @@
+---
+layout: post
+category: Log
+---
 ## Head to Github blog now!
 
 Recently I migrated from my wordpress blog (quite outdated though :wink:) to Jekyll. This is simple, minimal static
