@@ -243,13 +243,12 @@ nav {
       color: $blue;
     }
   }
-
-a.active {
-  background-color: #f7f8fa;
-  color: #019fc2;
-  cursor: default;
+a:hover,
+a.selected {
+  color: red;
+  background: #efefef;
 }
-
+	
 }
 
 //
