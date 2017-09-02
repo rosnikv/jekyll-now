@@ -3,6 +3,33 @@ layout: default
 title: Research
 category: research
 ---
+
+
+ 
+    <div class="wrapper-masthead">
+      <div class="container">
+        
+        <header class="masthead clearfix">
+   
+          <nav>
+         
+            <ul id="menu">
+           
+              <li><a href="{{ site.baseurl }}/">Home</a></li> 
+              <li><a href="{{ site.baseurl }}/research">Research</a></li>  
+              <li><a href="{{ site.baseurl }}/wp-log">Log</a></li>
+              <li><a href="{{ site.baseurl }}/about">About</a></li>
+              </ul>
+      
+          </nav>
+ 
+        </header>
+      </div>
+    </div>
+
+   
+ 
+
 <div class="posts">
 {% for post in site.posts %}
   {% if post.categories contains 'research' %}
