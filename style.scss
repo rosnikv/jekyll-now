@@ -257,15 +257,9 @@ nav#menu {
     margin-top: 9px;
     display: block;
     font-size: 16px;
-  }
-
-  a {
-	   color: $blue;
-  text-decoration: none;
-	cursor: pointer;
-  &:hover, &:active {
-    color: $blue;
-  }
+  }	
+}
+nav#menu a {
     margin-left: 20px;
     color: $darkGray;
     text-align: right;
@@ -276,8 +270,7 @@ nav#menu {
       margin: 0 10px;
       color: $blue;
     }
-  }	
-}
+  }
 //
 // .main
 //
