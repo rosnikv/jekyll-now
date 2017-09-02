@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Publications
+permalink: /paper/
 ---
 Hello! Thanks for pop in here.
 
