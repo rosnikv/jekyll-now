@@ -1,0 +1,35 @@
+---
+layout: default
+title: Research
+category: publication
+---
+
+<div class="posts">
+{% for post in site.posts %}
+  {% if post.categories contains 'publication' %}
+ 
+ 
+          <nav id="menu">
+         
+            <ul>
+           
+              <li><a href="{{ site.baseurl }}/publications/"><b>Publications</b></a></li> 
+              <li><a href="{{ site.baseurl }}/research"><b>Notes</b></a></li>     
+              <li><a href="{{ site.baseurl }}/"><b>Stick Notes</b></a></li>
+              </ul>
+      
+          </nav>
+ 
+
+    <article class="post">
+      
+      <div class="entry">
+        {{ post.content }}
+      </div>
+
+    </article>
+
+{% endif %}
+{% endfor %}
+</div>
+
