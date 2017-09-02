@@ -257,7 +257,7 @@ nav#menu {
     float: none;
     margin-top: 9px;
     display: block;
-    font-size: 16px;
+    font-size: 20px;
   }	
 }
 nav#menu a {
@@ -272,7 +272,7 @@ nav#menu a {
    margin-left: 20px;
     color: $darkGray;
     text-align: right;
-    font-weight: 300;
+    font-weight: 400;
     letter-spacing: 1px;
 
     @include mobile {
