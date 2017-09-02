@@ -251,14 +251,14 @@ nav#menu {
     background-color: #333;
     position: fixed; /* Set the navbar to fixed position */
     right: 0; /* Position the navbar at the top of the page */
-    width: 100%; /* Full width */
+    width: 10%; /* Full width */
 	
-/*  @include mobile {
+  @include mobile {
     float: none;
     margin-top: 9px;
     display: block;
     font-size: 16px;
-  }*/	
+  }	
 }
 nav#menu a {
 
