@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About
 permalink: /about/
 ---
-Hello! Thanks for pop in here.
 
-I'm Rosni. 
+**Hello!** *Thanks for pop in here.*
+
+I'm **Rosni**. 
 
 ### More Information
 
