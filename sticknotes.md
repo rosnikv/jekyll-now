@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Useful commands together [Note to myself]
-permalink: /stick-notes/
+permalink: /sticknotes/
 mathjax: true
 ---
 
