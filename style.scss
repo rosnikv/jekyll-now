@@ -252,6 +252,7 @@ nav#menu {
     position: fixed; /* Set the navbar to fixed position */
     right: 0; /* Position the navbar at the top of the page */
     width: 20%; /* Full width */
+
 	
   @include mobile {
     float: none;
@@ -270,10 +271,10 @@ nav#menu a {
   	 }
 	
    margin-left: 20px;
-    color: $darkGray;
-    text-align: right;
-    font-weight: 400;
-    letter-spacing: 1px;
+    color: #000000;
+font-family: Arial, sans-serif;
+font-size: medium;
+font-weight: bold;
 
     @include mobile {
       margin: 0 10px;
