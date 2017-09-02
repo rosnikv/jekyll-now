@@ -260,6 +260,12 @@ nav#menu {
   }
 
   a {
+	   color: $blue;
+  text-decoration: none;
+	cursor: pointer;
+  &:hover, &:active {
+    color: $blue;
+  }
     margin-left: 20px;
     color: $darkGray;
     text-align: right;
@@ -271,15 +277,6 @@ nav#menu {
       color: $blue;
     }
   }	
-}
-
-nav#menu a {
-  color: $blue;
-  text-decoration: none;
-	cursor: pointer;
-  &:hover, &:active {
-    color: $blue;
-  }
 }
 //
 // .main
