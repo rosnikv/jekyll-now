@@ -4,13 +4,11 @@ title: Research
 category: research
 ---
 
-
+<div class="posts">
+{% for post in site.posts %}
+  {% if post.categories contains 'research' %}
  
-    <div class="wrapper-masthead">
-      <div class="container">
-        
-        <header class="masthead clearfix">
-   
+ 
           <nav>
          
             <ul id="menu">
@@ -23,16 +21,6 @@ category: research
       
           </nav>
  
-        </header>
-      </div>
-    </div>
-
-   
- 
-
-<div class="posts">
-{% for post in site.posts %}
-  {% if post.categories contains 'research' %}
 
     <article class="post">
 
