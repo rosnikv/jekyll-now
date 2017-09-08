@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Useful commands together [selfnotes]
+title: SelfNotes
 permalink: /sticknotes/
 mathjax: true
 ---
