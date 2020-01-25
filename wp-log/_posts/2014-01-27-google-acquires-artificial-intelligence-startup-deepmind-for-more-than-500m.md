@@ -5,7 +5,7 @@ title: Google Acquires Artificial Intelligence Startup DeepMind For More Than $5
 ---
 
 
-Artificial Intelligence rules!! Imagine about a system that thinks :) Hope the tech gaint and Deep mind together come up with some thing new !! #Deep_Learning
+Artificial Intelligence rules!! Imagine about a system that thinks :) Hope the tech giant and Deep mind together come up with some thing new !! #Deep_Learning
 
 
 *link: https://rosnikv92.wordpress.com/2014/01/27/google-acquires-artificial-intelligence-startup-deepmind-for-more-than-500m/
