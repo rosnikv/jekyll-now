@@ -14,4 +14,5 @@ I will be sharing more about Machine Learning concepts and data analysis in **Re
 ### Contact
 
 [rosnikv@gmail.com](mailto:email@domain.com)
+
 [Academic Profile](https://www.ifi.uzh.ch/en/ddis/people/rosni.html)
