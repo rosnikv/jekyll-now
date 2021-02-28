@@ -14,7 +14,7 @@ A data scientist or data analyst demonstrating storytelling using interactive pl
 
 The Altair website explains it well and well-documented with many examples and case studies of interactive visualisations. You can see below one of the cool plots created with a few lines of python code:
 
-```python
+{% highlight python %}
 import altair as alt
 from vega_datasets import data
 
@@ -30,7 +30,8 @@ alt.Chart(source).mark_area().encode(
 ).add_selection(
     selection
 )
-```
+{% endhighlight %}
+
 
 Upon selecting the options in `legend`, you would be able to see that particular option highlighted in the plot. I hope these small interactions contribute a lot to understanding and interpreting the data via visualizations.
 
