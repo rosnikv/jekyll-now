@@ -10,7 +10,7 @@ mathjax: true
 
 Recently, I came across the python library called ["Altair"](https://altair-viz.github.io/getting_started/overview.html).
 
-{% include chart.html %}
+{% include Plots/chart.html %}
 
 
 
