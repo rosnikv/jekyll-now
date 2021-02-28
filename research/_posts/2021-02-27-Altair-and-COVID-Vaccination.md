@@ -3,7 +3,6 @@ layout: post
 category: research
 title: 'Altair and Covide Vaccinations'
 date: 2020-11-28 20:55
-include: vega
 mathjax: true
 ---
 
