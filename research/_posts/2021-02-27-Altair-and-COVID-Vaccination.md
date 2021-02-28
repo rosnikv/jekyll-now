@@ -14,7 +14,7 @@ A data scientist or data analyst demonstrating storytelling using interactive pl
 
 The Altair website explains it well and well-documented with many examples and case studies of interactive visualisations. You can see below one of the cool plots created with a few lines of python code:
 
-{% highlight python %}
+```python
 import altair as alt
 from vega_datasets import data
 
@@ -30,8 +30,7 @@ alt.Chart(source).mark_area().encode(
 ).add_selection(
     selection
 )
-{% endhighlight %}
-
+```
 
 Upon selecting the options in `legend`, you would be able to see that particular option highlighted in the plot. I hope these small interactions contribute a lot to understanding and interpreting the data via visualizations.
 
@@ -49,7 +48,11 @@ To demonstrate, I have used the vaccination data and tried to plot what per cent
 
 {% include chart.html %}
 
-It is super easy to integrate the Altair generated plots into your own website. Altair library allows you to save your plots into an HTML file  (also, other different image formats and JSON file). For example, all you have to do in a Jekyll-now static website generator is include the generated HTML in the `_includes` directory and use the __liquid template language__ within your markdown file (_{% include chart.html %}_)
+It is super easy to integrate the Altair generated plots into your own website. Altair library allows you to save your plots into an HTML file  (also, other different image formats and JSON file). For example, all you have to do in a Jekyll-now static website generator is include the generated HTML in the `_includes` directory and use the __liquid template language__ within your markdown file;
+
+```
+{% include chart.html %}
+```
 
 P.S: I have done the same with this post  :metal: :octocat:
 
