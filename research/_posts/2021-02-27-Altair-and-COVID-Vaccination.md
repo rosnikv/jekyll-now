@@ -48,11 +48,9 @@ To demonstrate, I have used the vaccination data and tried to plot what per cent
 
 {% include chart.html %}
 
-It is super easy to integrate the Altair generated plots into your own website. Altair library allows you to save your plots into an HTML file  (also, other different image formats and JSON file). For example, all you have to do in a Jekyll-now static website generator is include the generated HTML in the `_includes` directory and use the __liquid template language__ within your markdown file 
+It is super easy to integrate the Altair generated plots into your own website. Altair library allows you to save your plots into an HTML file  (also, other different image formats and JSON file). For example, all you have to do in a Jekyll-now static website generator is include the generated HTML in the `_includes` directory and use the __liquid template language__ within your markdown file (`{% include chart.html %}`)
 
 P.S: I have done the same with this post  :metal: :octocat:
 
-```json
-{% include chart.html %}
-```
+
 
