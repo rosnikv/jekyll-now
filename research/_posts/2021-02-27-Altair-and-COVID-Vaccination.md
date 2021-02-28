@@ -32,7 +32,7 @@ alt.Chart(source).mark_area().encode(
 )
 ```
 
-Upon selecting the options in `legend`, you would be able to see that particular option. I hope these small interactions contribute a lot to understanding and interpreting the data via visualizations.
+Upon selecting the options in `legend`, you would be able to see that particular option highlighted in the plot. I hope these small interactions contribute a lot to understanding and interpreting the data via visualizations.
 
 {% include example_plot.html %}
 
@@ -50,9 +50,8 @@ To demonstrate, I have used the vaccination data and tried to plot what per cent
 
 It is super easy to integrate the Altair generated plots into your own website. Altair library allows you to save your plots into an HTML file  (also, other different image formats and JSON file). For example, all you have to do in a Jekyll-now static website generator is include the generated HTML in the `_includes` directory and use the __liquid template language__ within your markdown file (same I have done with this post  :metal: :octocat:) 
 
-```ruby
-{% include chart.html %}
 
-```
+> {% include chart.html %}
+
 
 
