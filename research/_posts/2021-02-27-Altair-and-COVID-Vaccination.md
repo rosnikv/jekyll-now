@@ -10,8 +10,7 @@ mathjax: true
 
 A data scientist or data analyst demonstrating storytelling using interactive plots with data is unavoidable in the pipeline. Recently, I came across the python library called ["Altair"](https://altair-viz.github.io/getting_started/overview.html). 
 
-> Altair provides a Python API for building statistical visualizations in a declarative manner. By statistical visualization we mean:
-> ....
+> Altair provides a Python API for building statistical visualizations in a declarative manner. By statistical visualization we mean: ..
 
 The Altair website explains it well and well-documented with many examples and case studies of interactive visualisations. You can see below one of the cool plots created with a few lines of python code:
 
