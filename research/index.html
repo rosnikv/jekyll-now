@@ -4,27 +4,27 @@ title: Research
 category: research
 ---
 
-{% if 'vega' in post.include %}
-<style>
-.vega-actions a {
-    margin-right: 12px;
-    color: #757575;
-    font-weight: normal;
-    font-size: 13px;
-}
-.error {
-    color: red;
-}
-</style>
-<script src="https://cdn.jsdelivr.net/npm//vega@3.3.1"></script>
-<script src="https://cdn.jsdelivr.net/npm//vega-lite@4.8.1"></script>
-<script src="https://cdn.jsdelivr.net/npm//vega-embed@3.11"></script>
-{% endif %}
-
 <div class="posts">
 {% for post in site.posts %}
   {% if post.categories contains 'research' %}
  
+    
+        {% if 'vega' in post.include %}
+            <style>
+            .vega-actions a {
+                margin-right: 12px;
+                color: #757575;
+                font-weight: normal;
+                font-size: 13px;
+            }
+            .error {
+                color: red;
+            }
+            </style>
+            <script src="https://cdn.jsdelivr.net/npm//vega@3.4.0"></script>
+            <script src="https://cdn.jsdelivr.net/npm//vega-lite@4.8.1"></script>
+            <script src="https://cdn.jsdelivr.net/npm//vega-embed@3"></script>
+        {% endif %}
  
           <!--nav id="menu">
          
