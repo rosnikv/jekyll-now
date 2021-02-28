@@ -10,7 +10,7 @@
   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
 </head>
 <body>
-  <div id="vis"></div>
+  <div id="vis2"></div>
   <script>
     (function(vegaEmbed) {
       var spec = {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}}, "data": {"url": "https://cdn.jsdelivr.net/npm/vega-datasets@v1.29.0/data/unemployment-across-industries.json"}, "mark": "area", "encoding": {"color": {"type": "nominal", "field": "series", "scale": {"scheme": "category20b"}}, "opacity": {"condition": {"value": 1, "selection": "selector109"}, "value": 0.2}, "x": {"type": "temporal", "axis": {"domain": false, "format": "%Y", "tickSize": 0}, "field": "date", "timeUnit": "yearmonth"}, "y": {"type": "quantitative", "aggregate": "sum", "axis": null, "field": "count", "stack": "center"}}, "selection": {"selector109": {"type": "multi", "fields": ["series"], "bind": "legend"}}, "$schema": "https://vega.github.io/schema/vega-lite/v4.8.1.json"};
@@ -24,8 +24,8 @@
                           + '</div>');
           throw error;
       }
-      const el = document.getElementById('vis');
-      vegaEmbed("#vis", spec, embedOpt)
+      const el = document.getElementById('vis2');
+      vegaEmbed("#vis2", spec, embedOpt)
         .catch(error => showError(el, error));
     })(vegaEmbed);
 
